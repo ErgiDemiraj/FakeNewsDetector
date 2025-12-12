@@ -21,3 +21,6 @@ The model is trained on the Kaggle Fake and Real News dataset and uses TF-IDF fe
 - model/ — saved model and vectorizer
 - templates/ — HTML interface
 - static/ — CSS styling
+
+FakeNewDetectorVideo
+https://drive.google.com/file/d/1AGitQJ9jyYN0-MpGPn-CkMahfq4zheoC/view?usp=drive_link
